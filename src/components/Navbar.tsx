@@ -27,7 +27,6 @@ const Navbar = () => {
           <li><a href="#home" onClick={() => setIsMenuOpen(false)}>Home</a></li>
           <li><a href="#about" onClick={() => setIsMenuOpen(false)}>About Us</a></li>
           <li><a href="#programs" onClick={() => setIsMenuOpen(false)}>Our Programs</a></li>
-          <li><a href="#impact" onClick={() => setIsMenuOpen(false)}>Impact</a></li>
           <li><a href="#contact" onClick={() => setIsMenuOpen(false)}>Contact</a></li>
           <li><a href="#donate" className="donate-btn" onClick={() => setIsMenuOpen(false)}>Donate</a></li>
         </ul>

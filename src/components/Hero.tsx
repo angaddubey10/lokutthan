@@ -16,16 +16,16 @@ const Hero = () => {
       </div>
       <div className="hero-stats">
         <div className="stat-card">
-          <h3>10,000+</h3>
-          <p>Lives Impacted</p>
+          <h3>🏥</h3>
+          <p>Building Healthier Communities</p>
         </div>
         <div className="stat-card">
-          <h3>50+</h3>
-          <p>Communities Served</p>
+          <h3>📚</h3>
+          <p>Empowering Through Education</p>
         </div>
         <div className="stat-card">
-          <h3>100+</h3>
-          <p>Health Camps Organized</p>
+          <h3>⚖️</h3>
+          <p>Advocating for Rights</p>
         </div>
       </div>
     </section>
