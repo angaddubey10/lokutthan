@@ -4,7 +4,7 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer id="donate" className="footer">
+    <footer className="footer">
       <div className="footer-container">
         <div className="footer-content">
           <div className="footer-section">
@@ -42,7 +42,17 @@ const Footer = () => {
               Your contribution helps us create lasting change in communities. 
               Every donation makes a difference.
             </p>
-            <button className="footer-donate-btn">Donate Now</button>
+            <button 
+              className="footer-donate-btn"
+              onClick={() => {
+                const donateSection = document.getElementById('donate');
+                if (donateSection) {
+                  donateSection.scrollIntoView({ behavior: 'smooth' });
+                }
+              }}
+            >
+              Donate Now
+            </button>
           </div>
         </div>
 

@@ -63,7 +63,7 @@ const Donate = () => {
           <div className="donate-note">
             <p>
               <strong>Note:</strong> Please share your transaction details at{' '}
-              <a href="mailto:donations@lokutthan.org">donations@lokutthan.org</a>{' '}
+              <a href="mailto:hello.lokutthan@gmail.com">hello.lokutthan@gmail.com</a>{' '}
               to receive your tax receipt and updates on how your contribution is making a difference.
             </p>
           </div>
