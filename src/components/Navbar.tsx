@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import './Navbar.css';
+import logo from '../../images/logo - 1.jpeg';
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -12,6 +13,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar-container">
         <div className="navbar-logo">
+          <img src={logo} alt="Lok Utthan Foundation Logo" className="logo-image" />
           <h1>Lok Utthan Foundation</h1>
         </div>
         
