@@ -10,7 +10,7 @@ const About = () => {
             Lok Utthan Foundation is a non-governmental organization committed to uplifting 
             marginalized communities through sustainable development initiatives. Founded on 
             the principles of equity, dignity, and empowerment, we work tirelessly to bridge 
-            the gap in access to quality healthcare, education, and social justice.
+            the gap in access to quality education, social justice, and healthcare.
           </p>
           <p className="about-description">
             Our holistic approach combines grassroots mobilization with evidence-based interventions 
@@ -24,8 +24,8 @@ const About = () => {
             <div className="mv-icon">🎯</div>
             <h3>Our Mission</h3>
             <p>
-              To empower underserved communities through comprehensive health education, 
-              legal advocacy, and sustainable development programs that promote dignity, 
+              To empower underserved communities through transformative education, 
+              legal advocacy, and comprehensive health programs that promote dignity, 
               equality, and social justice.
             </p>
           </div>
@@ -34,8 +34,8 @@ const About = () => {
             <div className="mv-icon">👁️</div>
             <h3>Our Vision</h3>
             <p>
-              A society where every individual has equitable access to quality healthcare, 
-              education, and justice, enabling them to reach their full potential and 
+              A society where every individual has equitable access to quality education, 
+              justice, and healthcare, enabling them to reach their full potential and 
               contribute to community development.
             </p>
           </div>

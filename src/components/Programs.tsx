@@ -3,15 +3,9 @@ import './Programs.css';
 const Programs = () => {
   const programs = [
     {
-      icon: '🏥',
-      title: 'Health Education & Awareness',
-      description: 'Conducting health camps, awareness drives, and preventive care programs to promote community wellness and disease prevention.',
-      highlights: ['Free Health Camps', 'Nutrition Programs', 'Disease Prevention', 'Maternal Health']
-    },
-    {
       icon: '📚',
       title: 'Education & Skill Development',
-      description: 'Empowering individuals through education initiatives, vocational training, and life skills development programs.',
+      description: 'Empowering individuals through transformative education initiatives, vocational training, and life skills development programs that create pathways to opportunity.',
       highlights: ['Adult Literacy', 'Vocational Training', 'Scholarship Programs', 'Digital Literacy']
     },
     {
@@ -19,6 +13,12 @@ const Programs = () => {
       title: 'Legal Aid & Justice',
       description: 'Providing legal support and advocacy for marginalized communities to ensure access to justice and protection of rights.',
       highlights: ['Free Legal Counseling', 'Rights Awareness', 'Court Support', 'Policy Advocacy']
+    },
+    {
+      icon: '🏥',
+      title: 'Health Education & Awareness',
+      description: 'Conducting health camps, awareness drives, and preventive care programs to promote community wellness and disease prevention.',
+      highlights: ['Free Health Camps', 'Nutrition Programs', 'Disease Prevention', 'Maternal Health']
     },
     {
       icon: '👩‍👧',
