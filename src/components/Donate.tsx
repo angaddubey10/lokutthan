@@ -20,41 +20,28 @@ const Donate = () => {
           </div>
 
           <div className="payment-methods">
-            <div className="payment-card qr-card">
-              <h3>Quick Payment</h3>
-              <div className="qr-code-container">
-                <div className="qr-placeholder">
-                  <p>QR Code</p>
-                  <p style={{fontSize: '12px', marginTop: '5px'}}>Scan to pay via UPI</p>
-                </div>
-              </div>
-              <div className="upi-id">
-                <strong>UPI ID:</strong> lokutthan@upi
-              </div>
-            </div>
-
             <div className="payment-card bank-card">
               <h3>Bank Transfer</h3>
               <div className="bank-details">
                 <div className="detail-row">
                   <span className="label">Account Name:</span>
-                  <span className="value">Lok Utthan Foundation</span>
+                  <span className="value">Utthan Foundation</span>
                 </div>
                 <div className="detail-row">
                   <span className="label">Account Number:</span>
-                  <span className="value">XXXX XXXX XXXX</span>
+                  <span className="value">120028438341</span>
                 </div>
                 <div className="detail-row">
                   <span className="label">IFSC Code:</span>
-                  <span className="value">ABCD0123456</span>
+                  <span className="value">CNRB0003203</span>
                 </div>
                 <div className="detail-row">
                   <span className="label">Bank Name:</span>
-                  <span className="value">Sample Bank</span>
+                  <span className="value">Canara Bank</span>
                 </div>
                 <div className="detail-row">
                   <span className="label">Branch:</span>
-                  <span className="value">New Delhi</span>
+                  <span className="value">Ballia, Uttar Pradesh</span>
                 </div>
               </div>
             </div>

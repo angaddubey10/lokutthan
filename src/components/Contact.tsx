@@ -32,7 +32,7 @@ const Contact = () => {
             <div className="info-card">
               <div className="info-icon">📍</div>
               <h3>Our Presence</h3>
-              <p>Lucknow, Varanasi, Noida - Delhi NCR, India</p>
+              <p>Lucknow, Varanasi, Ballia, Noida - Delhi NCR, India</p>
             </div>
           </div>
         </div>
