@@ -20,7 +20,7 @@ const Contact = () => {
             <div className="info-card">
               <div className="info-icon">📞</div>
               <h3>Call / WhatsApp</h3>
-              <p>+91-XXXX-XXXXXX</p>
+              <p>+91-9452-784478</p>
             </div>
 
             <div className="info-card">
